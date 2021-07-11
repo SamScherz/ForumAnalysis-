@@ -1,0 +1,37 @@
+Notes on Willow Trees Wastewater: Scholarly Article Biorefinery potential of sustainable municipal wastewater treatment using fast-growing willow 
+
+Why are willow trees the answer? Did the scientists test other plants? 
+
+In order for Willow trees to be economically feasible for wastewater treatment, there needs to be infrastructure in place for biorefinery (which there is not) 
+
+UN estimates that over 80% of wastewater generated from human activities is discharged into the ecosystem w/out adequate treatment 
+
+In Canada ~6 trillion L of wastewater are generated annually, 106 billion of which are estimated as released untreated into Canadian waterways 
+
+In Canada, most common conventional wastewater treatment is performed in facility which first removes particulate matter and the applies biological treatment to degrade organic matter and reduce nutrient load, it's then released into waterway
+
+In quebec, treated wastewater must be below 26 mg/L ^-1 
+
+filtration is costly, and wastewater treaters want to come up with more cost effective ways to reduce wastewater. 
+
+Side note: The Popular Science article is claiming that these willows are going to be useful in biorefineries, while the scholarly article claims that water treatment facilities need cost-cutting measures. Are the researchers goals to cut costs, save the planet, or both? 
+
+One alternative to wastewater treatment plants are phytofiltration plantations, tree plantations that are irrigated with runoff wastewater and filters out the toxins 
+
+Short rotation coppice (SRC) willow is considered as a promising dedicated lignocellulosic renewable bioenergy crop due to its high biomass yields, low nutrients requirements and relatively high cellulose composition
+
+Scholarly article goes into detail about the enzymatic and chemical processes for converting lignocellulose (wood) into biofuel
+
+The value of willow phytochemicals has largely been associated with phenolic compounds, such as the salicinoids group, which has driven breeding programs aimed to enhance their content for commercial plantations (Bubner et al., 2018). 
+
+A four-hectare willow plantation was established in 2008 at Saint-Roch-de-l'Achigan (45° 50′ 50″ N–73° 38′ 27″ W) using Salix miyabeana ‘SX67’ at a density of 16,000 trees ha−1.
+
+Three plots (10 × 10 m each) were left unirrigated as controls while three others were irrigated with primary municipal wastewater effluent (six plots in total; Fig. 1A).
+
+Why were the controls totally unirrigated? plant's need water to grow and photosynthesize. Why didn't they irrigate the controls with normal water? that seems like more of a control. 
+
+Very large part of the paper is used to describe the breakdown of lignocellulose from the willowtrees and how they measured concentrations of trace metals and phytochemicals 
+
+Phytochemical extraction is part of the biorefinery process for willow, salicin can be extracted for us in aspirin
+
+One traditional theory behind such substantial changes in phytochemical concentrations is the carbon-nutrient hypothesis, proposed by Bryant et al. (1983), whereby limited nutrient availability leads to a decrease in nutrient concentrations and an increase in carbon-based secondary metabolite concentrations, while greater nutrient availability leads to the converse balance through relatively higher limitation of photoassimilated carbon. A reduction in phytochemical concentrations due to nitrogen fertilisation has been observed in other crops (Bryant et al., 1987; Fritz et al., 2006; Ibrahim et al., 2011; Radušienė et al., 2019; Strissel et al., 2005) as well as in fertilisation pot trials using Salix lasiolepis (Price et al., 1989), where phenolic concentrations were increased in low nutrient stressed trees.
